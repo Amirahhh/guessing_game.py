@@ -69,6 +69,6 @@ Press any key to continue, otherwise, type 'N' to end the game >>>  """)
                     highest_score = score
 
 
-# Kick off the program by calling the start_game function.
+# Kick off the program by calling the start_game function
 start_game()
 print("Thanks for playing!!")
